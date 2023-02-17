@@ -1,6 +1,6 @@
 # unisnap_flutter
 
-A new Flutter project.
+A flutter based front end project that allows users to connect their devices (iPhones for now) together and simultaneously start recording video or taking photos. That way users can have synchronized video recording for editing or to create other effects.
 
 ## Getting Started
 
